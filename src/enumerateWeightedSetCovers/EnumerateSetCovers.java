@@ -3,8 +3,9 @@ package enumerateWeightedSetCovers;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
-import java.util.*;
-import java.io.FileNotFoundException;
+import java.util.BitSet;
+import java.util.HashSet;
+import java.util.PriorityQueue;
 
 public class EnumerateSetCovers {
 
